@@ -46,3 +46,12 @@ Model comparison graph:
 ---
 
 ## 📂 Project Structure
+Phishing_website_detection_using_ML/
+│── dataset/ # Dataset used
+│── phishing_app/ # Django app
+│── models/ # ML models
+│── templates/ # HTML files
+│── static/ # CSS, JS, Images
+│── outputs/ # Output screenshots & graphs
+│── requirements.txt # Dependencies
+│── README.md # Project Documentation

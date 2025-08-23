@@ -1,7 +1,6 @@
-# 🛡️ Phishing Website Detection using Machine Learning
+# 🛡️ Phishing Website Detection using Machine Learning Approaches
 
-This project focuses on detecting phishing websites using machine learning techniques. It applies heuristic methods and classifiers like **Logistic Regression, CART, Random Forests, Neural Networks**, and more.  
-The system is built with **Python, Django, and ML algorithms**, and includes a web-based interface for real-time detection.
+This project focuses on detecting phishing websites using machine learning techniques. It applies heuristic methods and classifiers like **Random Forests, Neural Networks**, and more.The system is built with **Python, Django, and ML algorithms**, and includes a web-based interface for real-time detection.
 
 ---
 
@@ -18,7 +17,7 @@ The system is built with **Python, Django, and ML algorithms**, and includes a w
 - **User Module**: Enter website URL for detection  
 - **Admin Module**: Manage dataset and train models  
 - **Data Preprocessing**: Clean and prepare data  
-- **Machine Learning**: Random Forest, Logistic Regression, CART, Neural Networks  
+- **Machine Learning**: Random Forest,Neural Networks  
 - **Frontend**: User-friendly interface for predictions  
 
 ---
@@ -29,19 +28,20 @@ The **Random Forest** algorithm performed best with **97.8% accuracy**.
 ### 🔎 Example Output:
 Prediction result (Safe vs Phishing):
 
-![Output Screenshot](outputs/prediction_result.png)
+![Output Screenshot](output1.png)
+![Output Screenshot](output2.png)
 
 Model comparison graph:
 
-![Accuracy Graph](outputs/model_comparison.png)
+![Accuracy Graph](GraphComparison.png)
 
 ---
 
 ## 🛠️ Tech Stack
 - **Languages**: Python, HTML, CSS, JavaScript  
 - **Frameworks**: Django, Bootstrap  
-- **ML Algorithms**: Logistic Regression, CART, Random Forest, Neural Networks  
-- **Tools**: Jupyter Notebook, Git, GitHub  
+- **ML Algorithms**:Random Forest, Neural Networks  
+- **Tools**: GitHub  
 
 ---
 

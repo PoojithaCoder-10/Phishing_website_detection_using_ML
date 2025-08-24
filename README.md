@@ -28,8 +28,8 @@ The **Random Forest** algorithm performed best with **97.8% accuracy**.
 ### 🔎 Example Output:
 Prediction result (Safe vs Phishing):
 
-![Output Screenshot](output1.png)
-![Output Screenshot](output2.png)
+![output Screenshot](output1.png)
+![output Screenshot](output2.png)
 
 Model comparison graph:
 
